@@ -11,6 +11,7 @@ You can find me at the following links:
 - \[matrix\]: [`@orowwith2os:matrix.org`](https://matrix.to/#/@orowwith2os:matrix.org)
 - Discord: https://discord.gg/B2mq5hd
 - YouTube: https://www.youtube.com/channel/UCjybtJMIzygk3jXtTTfaLNw
+- Twitter: [@OroWith2Os](https://twitter.com/OroWith2Os)
 
 <!--
 **orowith2os/orowith2os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
