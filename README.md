@@ -16,3 +16,5 @@ You can find me at the following links:
 I currently maintain: 
 
 The flatpak of [VPupPr](https://github.com/flathub/com.github.virtual_puppet_project.vpuppr)
+
+<a href='https://flathub.org/apps/details/com.github.virtual_puppet_project.vpuppr'><img width='240' alt='Download the Virtual Puppet Project on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.png'/></a>
