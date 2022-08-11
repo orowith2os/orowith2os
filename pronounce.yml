@@ -2,12 +2,14 @@
 title: Oro
 icon:  https://pbs.twimg.com/profile_images/1546658809824813056/m4_MYnvQ_400x400.jpg
 name:  Oro
-#age:   [insert]
 pronouns:
      - they/them
      - ask
 contacts:
-     - oro@tar.black
+     - Matrix: orowith2os@tchncs.de
+     - Twitter: @OroWith2Os
+     - secondary email: orowith2os@gmail.com
+#     - tar.black email: oro@tar.black
 urls:
      - https://github.com/orowith2os
 
