@@ -1,14 +1,15 @@
 ---
-title: [Oro's Pronounce]
-icon:  [https://pbs.twimg.com/profile_images/1546658809824813056/m4_MYnvQ_400x400.jpg]
-name:  [Oro]
+title: Oro
+icon:  https://pbs.twimg.com/profile_images/1546658809824813056/m4_MYnvQ_400x400.jpg
+name:  Oro
 #age:   [insert]
 pronouns:
-     - [they/them, ask]
+     - they/them
+     - ask
 contacts:
-     - "[insert]"
+     - oro@tar.black
 urls:
-     - "[insert link]"
+     - https://github.com/orowith2os
 
 colors:
   background: "#0e0e0eff"
