@@ -1,0 +1,21 @@
+---
+title: [Oro's Pronounce]
+icon:  [https://pbs.twimg.com/profile_images/1546658809824813056/m4_MYnvQ_400x400.jpg]
+name:  [Oro]
+#age:   [insert]
+pronouns:
+     - [they/them, ask]
+contacts:
+     - "[insert]"
+urls:
+     - "[insert link]"
+
+colors:
+  background: "#0e0e0eff"
+  foreground: "#eeeeeeff"
+  heading: "#555555ff"
+  text: "#eeeeeecc"
+
+  url:
+    normal: "#eeeeee9d"
+    hover: "#eeeeeeb9"
