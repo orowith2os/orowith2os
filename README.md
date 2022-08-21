@@ -2,7 +2,7 @@
 
 You can call me Oro, but I may also be known as OroWith2Os or OroWwith2Os
 
-My pronouns are `they/them`
+My pronouns are `they/them` and `she/her`
 
 I am currently learning [Rust!](https://www.rust-lang.org)
 
