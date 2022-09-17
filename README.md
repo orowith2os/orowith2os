@@ -6,6 +6,8 @@ My pronouns are `they/them` and `she/her`
 
 I am currently learning [Rust!](https://www.rust-lang.org)
 
+I like to contribute more on the documentation and packaging side of things, rather than coding.
+
 You can find me at the following links:
 
 - \[matrix\]: [`@orowith2os:tchncs.de`](https://matrix.to/#/@orowith2os:tchncs.de)
