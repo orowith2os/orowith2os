@@ -21,6 +21,6 @@ I currently maintain:
 
 <a href='https://beta.flathub.org/apps/details/com.github.virtual_puppet_project.vpuppr'><img width='240' alt='Download the Virtual Puppet Project on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.png'/></a>
 
-and the flatpak of [Inochi Creator](https://github.com/flathub/com.inochi2d.inochi-creator)
+* The flatpak of [Inochi Creator](https://github.com/flathub/com.inochi2d.inochi-creator)
 
 <a href='https://beta.flathub.org/apps/details/com.inochi2d.inochi-creator'><img width='240' alt='Download the Virtual Puppet Project on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.png'/></a>
