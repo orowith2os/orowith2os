@@ -1,3 +1,7 @@
+# UNAVAILABLE UNTIL FURTHER NOTICE
+
+I will review any MRs and the like when I am available, most likely around mid-October
+
 ## Welcome to my GitHub profile!
 
 You can call me Oro, but I may also be known as OroWith2Os or OroWwith2Os
