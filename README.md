@@ -10,7 +10,7 @@ My pronouns are `they/them` and `she/her`
 
 I am currently learning [Rust!](https://www.rust-lang.org)
 
-PFP: https://www.pixiv.net/en/artworks/101595772
+PFP: https://www.pixiv.net/i/101595772
 
 I like to contribute more on the documentation and packaging side of things, rather than coding.
 
