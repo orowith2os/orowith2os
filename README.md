@@ -1,6 +1,3 @@
-# UNAVAILABLE UNTIL FURTHER NOTICE
-
-I will review any MRs and the like when I am available, most likely around mid-October
 
 ## Welcome to my GitHub profile!
 
