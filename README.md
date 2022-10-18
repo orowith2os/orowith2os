@@ -1,3 +1,6 @@
+# UNAVAILABLE UNTIL FURTHER NOTICE
+
+Sorry to pop out again, but I'll be gone for a while, so don't expect a response from me until then
 
 ## Welcome to my GitHub profile!
 
