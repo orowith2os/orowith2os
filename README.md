@@ -1,14 +1,14 @@
-# UNAVAILABLE UNTIL FURTHER NOTICE
+<!-- # UNAVAILABLE UNTIL FURTHER NOTICE
 
 Sorry to pop out again, but I'll be gone for a while, so don't expect a response from me until then
-
+ -->
 ## Welcome to my GitHub profile!
 
 You can call me Oro, but I may also be known as OroWith2Os or OroWwith2Os
 
 My pronouns are `they/them` and `she/her`
 
-I am currently learning [Rust!](https://www.rust-lang.org)
+I am currently learning [Rust](https://www.rust-lang.org), and have been peeking at D and Python.
 
 PFP: https://www.pixiv.net/i/101595772
 
@@ -19,6 +19,7 @@ You can find me at the following links:
 - \[matrix\]: [`@orowith2os:tchncs.de`](https://matrix.to/#/@orowith2os:tchncs.de)
 - Discord: https://discord.gg/B2mq5hd
 - YouTube: https://www.youtube.com/channel/UCjybtJMIzygk3jXtTTfaLNw
+- Mastodon: [@orowith2os@tech.lgbt](https://tech.lgbt/web/@orowith2os)
 - Twitter: [@OroWith2Os](https://twitter.com/OroWith2Os)
 
 I currently maintain: 
