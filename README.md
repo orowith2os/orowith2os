@@ -2,7 +2,7 @@
 
 Sorry to pop out again, but I'll be gone for a while, so don't expect a response from me until then
  -->
-<a rel="me" href="https://tech.lgbt/@orowith2os"/>
+<a rel="me" href="https://tech.lgbt/@orowith2os">@orowith2os@tech.lgbt</a>
 
 ## Welcome to my GitHub profile!
 
@@ -21,7 +21,7 @@ You can find me at the following links:
 - \[matrix\]: [`@orowith2os:tchncs.de`](https://matrix.to/#/@orowith2os:tchncs.de)
 - Discord: https://discord.gg/B2mq5hd
 - YouTube: https://www.youtube.com/channel/UCjybtJMIzygk3jXtTTfaLNw
-- Mastodon: [@orowith2os@tech.lgbt](https://tech.lgbt/web/@orowith2os)
+- Mastodon: <a rel="me" href="https://tech.lgbt/@orowith2os">[@orowith2os@tech.lgbt](https://tech.lgbt/@orowith2os)</a>
 - Twitter: [@OroWith2Os](https://twitter.com/OroWith2Os)
 
 I currently maintain: 
