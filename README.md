@@ -2,7 +2,6 @@
 
 Sorry to pop out again, but I'll be gone for a while, so don't expect a response from me until then
  -->
-<a rel="me" href="https://tech.lgbt/@orowith2os">@orowith2os@tech.lgbt</a>
 
 ## Welcome to my GitHub profile!
 
