@@ -32,7 +32,11 @@ You can find me at the following links (socials):
   <img src="https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white" />
 </a>
 
+You can find my dotfiles here: https://github.com/orowith2os/dotfiles
 
+Nix flake: https://github.com/orowith2os/flake
+
+And some artwork/assets I've gotten/made/commissioned: https://github.com/orowith2os/My-assets-and-whatnot
 
 ## I currently maintain: 
 
