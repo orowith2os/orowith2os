@@ -49,3 +49,5 @@ And some artwork/assets I've gotten/made/commissioned: https://github.com/orowit
 * The flatpak of [Inochi Creator](https://github.com/flathub/com.inochi2d.inochi-creator)
 
 <a href='https://beta.flathub.org/apps/details/com.inochi2d.inochi-creator'><img width='240' alt='Download the Virtual Puppet Project on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.png'/></a>
+
+* The libdecor shared module for Flathub: https://github.com/flathub/shared-modules/tree/master/libdecor
