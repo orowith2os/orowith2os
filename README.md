@@ -13,7 +13,7 @@ My pronouns are `they/them` and `she/her`
 
 I am currently learning [Rust](https://www.rust-lang.org), and have been peeking at D and Python.
 
-PFP: https://www.pixiv.net/i/101595772
+PFP: https://twitter.com/moshimoshibe
 
 I like to contribute more on the documentation and packaging side of things, rather than coding.
 
