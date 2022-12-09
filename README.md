@@ -51,3 +51,5 @@ And some artwork/assets I've gotten/made/commissioned: https://github.com/orowit
 <a href='https://beta.flathub.org/apps/details/com.inochi2d.inochi-creator'><img width='240' alt='Download the Virtual Puppet Project on Flathub' src='https://flathub.org/assets/badges/flathub-badge-en.png'/></a>
 
 * The libdecor shared module for Flathub: https://github.com/flathub/shared-modules/tree/master/libdecor
+
+* The SDL2 shared module for Flathub: https://github.com/flathub/shared-modules/tree/master/SDL2
