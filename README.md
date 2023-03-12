@@ -9,7 +9,7 @@ https://gitlab.com/orowith2os
 
 You can call me Oro, but I may also be known as OroWith2Os or OroWwith2Os
 
-My pronouns are `they/them` and `she/her`
+My pronouns are `any/all`
 
 I am currently learning [Rust](https://www.rust-lang.org), and have been peeking at D and Python.
 
