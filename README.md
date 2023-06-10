@@ -2,7 +2,7 @@
 
 Sorry to pop out again, but I'll be gone for a while, so don't expect a response from me until then
  -->
-### I now host my personal projects on GitLab, and overall prefer to do things over there.
+### I now host my personal projects on GitLab
 https://gitlab.com/orowith2os
 
 ## Welcome to my GitHub profile!
