@@ -13,8 +13,6 @@ My pronouns are `she/they`
 
 I am currently learning [Rust](https://www.rust-lang.org), and have been peeking at D and Python.
 
-PFP: https://twitter.com/moshimoshibe
-
 I like to contribute more on the documentation and packaging side of things, rather than coding.
 
 You can find me at the following links (socials):
