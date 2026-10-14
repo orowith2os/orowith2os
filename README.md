@@ -8,6 +8,8 @@ You can call me Oro or Yves; no preference online.
 
 You can find more about me at https://oro.gay, and my socials at https://oro.gay/socials/
 
+Support me with GitHub Sponsors, or another supported platform at https://oro.gay/support/
+
 I am currently using Rust, C, and C++.
 
 All code I write is my own. I do not use AI tools.
